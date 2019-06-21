@@ -62,4 +62,4 @@ premium plugins
 
 1. If your IT person (or your web contractor) suddenly leaves or gets sick do you have sufficient documentation to quickly onboard someone new?
 1. If your IT person (or your web contractor) suddenly leaves do you have a process in place to remove their access from all your systems?
-1. Are any of your accounts (domain registration, hosting, subscriptions...) tied to a specific person's email address? (Hint: use something like licensing@yourcompany.com instead)
+1. Are any of your accounts (domain registration, hosting, subscriptions...) tied to a specific person's email address? (Hint: use something like licensing@nameofyourcompanywebsitehere.com instead)
