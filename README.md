@@ -7,6 +7,7 @@
 1. Does the domain registration auto-renew?
 1. Do you know when your credit card on file expires? Will you get an email notification if this happens?
 1. What email address did you use for the email notifications?
+1. Does your domain registrar disclose your name or contact information? (They shouldn't)
 
 ## Hosting
 
