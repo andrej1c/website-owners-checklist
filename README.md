@@ -28,11 +28,12 @@
 ## Access / Security
 
 1. Do you know who all has ftp access to your website?
-1. Do they use plain (insecure) FTP or sFTP? Do _they_ know the difference? (FTP should be disallowed)
-1. Do you know who all has access to your WordPress site? Do they have the minimum possible access that would still allow them to do their job?
+1. Do they use plain (insecure) FTP or sFTP? Do _they_ know the difference? (FTP should really be disallowed)
+1. Do you know who all has access to your WordPress admin? Do they have the minimum possible access that would still allow them to do their job?
 1. Do you require and enforce a strong password policy?
 1. Do you require all (or at least admin) users to have two factor authentication?
 1. Does your team know to never share passwords with anyone?
+1. Does your website force https to access WordPress admin?
 
 ## Monitoring
 
