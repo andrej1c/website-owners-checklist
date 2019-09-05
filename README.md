@@ -17,6 +17,14 @@
 1. Do you know when your credit card on file expires? Will you get an email notification if this happens?
 1. What email address did you use for the email notifications?
 
+
+## SSL Certificate 
+
+1. Does your website have an SSL certificate in place (https://)
+1. Does it auto-renew? If not, do you know how to renew it yourself?
+1. If you're not using a free one but bought one, do you know when your credit card on file expires? Will you get an email notification if this happens?
+1. What email address did you use for the email notifications?
+
 ## Access / Security
 
 1. Do you know who all has ftp access to your website?
