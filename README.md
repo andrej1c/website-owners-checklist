@@ -46,7 +46,6 @@
 
 1. How often do you update WordPress core, plugins and themes? Every time a new security update comes out? (You should)
 1. Would you recognize if a plugin you're using has been abandoned (no longer maintained for security)?
-premium plugins
 1. Do you have a staging site where you test updates before installing them on your production site?
 1. Do you know what plugins are on your site and what they each do for you? Do you only have plugins that are current, active and needed?
 
