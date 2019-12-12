@@ -37,9 +37,9 @@
 
 ## Monitoring
 
-1. Do you have monitoring with notifications to let you know when your site is down?
-1. Do you have a mechanism protecting your login form from dictionary attacks (automated attacks trying every word in the dictionary)?
-1. Do you have a mechanism monitoring file changes to let you know when website files change (possible hack)?
+1. Do you have monitoring with notifications to let you know when your website is down?
+1. Do you have a mechanism protecting your login form from dictionary attacks (automated attacks trying every word in the dictionary as your password)?
+1. Do you have a mechanism monitoring file changes to let you know when website files change (meaning, it was possibly hacked)?
 1. Would you be notified if Google had an issue indexing content from your website?
 
 ## Updates / Security
