@@ -77,7 +77,7 @@
 ## Tracking / Analytics
 
 1. What tracking/analytics do you have in place?
-1. Who is responsible for for monitoring each tracker, for reporting and for creating action plans based on the data?
+1. Who is responsible for monitoring each tracker, for reporting and for creating action plans based on the data?
 1. Do you have access to all of those systems?
 
 ## People
