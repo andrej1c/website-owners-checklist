@@ -74,6 +74,12 @@
 1. Do you know if your website performs well on computers as well as mobile devices?
 1. Does Google think your website is fast?
 
+## Tracking / Analytics
+
+1. What tracking/analytics do you have in place?
+1. Who is responsible for for monitoring each tracker, for reporting and for creating action plans based on the data?
+1. Do you have access to all of those systems?
+
 ## People
 
 1. If your IT person (or your web contractor) suddenly leaves or falls sick long term, do you have sufficient documentation to quickly onboard someone new?
